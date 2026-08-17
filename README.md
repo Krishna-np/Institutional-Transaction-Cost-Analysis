@@ -173,7 +173,7 @@ No API keys are required. All market data is retrieved from publicly available Y
 
 ## Configuration
 
-Project settings are managed through a single `CONFIG` dictionary at the beginning of the notebook. Updating these parameters allows you to run the analysis for different tickers, order sizes, execution horizons, and simulation settings without modifying the underlying code.
+Project settings are managed through a single `CONFIG` dictionary at the beginning of the notebook. Updating these paramete rs allows you to run the analysis for different tickers, order sizes, execution horizons, and simulation settings without modifying the underlying code.
 
 ```python
 CONFIG = {
